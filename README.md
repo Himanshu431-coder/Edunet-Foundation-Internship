@@ -53,6 +53,9 @@ During this internship, I learned how to leverage Power BI to clean, model, and 
    Once the data is loaded, you can explore the interactive visualizations, use filters, and analyze the agricultural trends and statistics provided in the dashboard.
 
 ---
+## Dashboard
+   ![image](https://github.com/user-attachments/assets/82f989d8-5515-4688-98a7-92de64a4255d)
+
 
 ## Acknowledgements
 - Special thanks to **Mr. Chaitanya Sathe** for his mentorship and support throughout the internship, helping me improve my skills in Power BI and data visualization.
