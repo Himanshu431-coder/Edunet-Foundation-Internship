@@ -1,7 +1,7 @@
 # Indian Agriculture Analysis Dashboard Using Power BI
 
 ## Project Overview
-This project involves creating a comprehensive dashboard to analyze and visualize the state of agriculture in India. The dashboard, built using Power BI, focuses on providing insights into various agricultural metrics, including crop production, weather patterns, and economic factors affecting Indian farming.
+This project involves creating a comprehensive dashboard to analyze and visualize the state of agriculture in India. The dashboard, built using Power BI and Data Analytics, focuses on providing insights into various agricultural metrics, including crop production, weather patterns, and economic factors affecting Indian farming.
 
 ## Key Features
 - **Agriculture Data Visualization**: A detailed interactive dashboard showcasing key agricultural statistics across India.
@@ -56,7 +56,14 @@ During this internship, I learned how to leverage Power BI to clean, model, and 
 ## Dashboard
    ![image](https://github.com/user-attachments/assets/82f989d8-5515-4688-98a7-92de64a4255d)
 
+## Plots, Charts and Graphs
+   ![newplot](https://github.com/user-attachments/assets/a6327d51-3347-42b3-adaa-7d28f88bf488)
 
+   ![newplot (1)](https://github.com/user-attachments/assets/60dd78a5-20c5-46b9-b41f-aa7dd89f612c)
+
+   ![newplot (2)](https://github.com/user-attachments/assets/a6fe9140-5ec0-4602-96fd-164e48a398a8)
+
+---
 ## Acknowledgements
 - Special thanks to **Mr. Chaitanya Sathe** for his mentorship and support throughout the internship, helping me improve my skills in Power BI and data visualization.
 - Thanks to Power BI for providing an excellent platform for data analysis and visualization.
