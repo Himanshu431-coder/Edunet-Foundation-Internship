@@ -56,6 +56,9 @@ During this internship, I learned how to leverage Power BI to clean, model, and 
 ## Dashboard
    ![image](https://github.com/user-attachments/assets/82f989d8-5515-4688-98a7-92de64a4255d)
 
+   ![image](https://github.com/user-attachments/assets/276bfba6-2122-42c9-b21c-83df6099ae70)
+
+
 ## Plots, Charts and Graphs
    ![newplot](https://github.com/user-attachments/assets/a6327d51-3347-42b3-adaa-7d28f88bf488)
 
