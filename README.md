@@ -1,7 +1,7 @@
 # AI/ML-Driven Analysis of the Indian Agriculture Sector: Power BI and Advanced Analytics
 
 ## Project Overview
-This project is a hybrid data analytics and machine learning application focused on the Indian agriculture sector. It combines the power of **Power BI for interactive dashboards** with **Python-based machine learning** models to deliver insights into **crop yield prediction**, **climate impact**, **resource allocation**, and more.
+This project is a hybrid data analytics and machine learning application focused on the Indian agriculture sector. It combines the power of **Power BI for interactive dashboards** with **Python-based machine learning** and **Integration with Artificial Intelligence** models to deliver insights into **crop yield prediction**, **climate impact**, **resource allocation**, and more.
 The aim is to help **farmers, researchers, and policymakers** make data-driven decisions to boost agricultural productivity and sustainability.
 
 ## Key Features
@@ -75,9 +75,31 @@ Gained hands-on experience in end-to-end AI/ML workflows, enhancing my technical
    ```bash
    cd indian-agriculture-analysis-dashboard/ML_Model_Notebooks
    ```
+7. **Create a Virtual Environment**:
+   To keep dependencies clean:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate       # On macOS/Linux
+   venv\Scripts\activate          # On Windows
+   ```
+8. **Install Required Libraries**:
+   Install the necessary Python libraries using pip:
+   ```bash
+   pip install numpy pandas scikit-learn matplotlib seaborn
+   ```
 
-      
-Visualize insights with Matplotlib and Seaborn
+9. **Launch Jupyter Notebook**:
+    ```bash
+   jupyter notebook
+    ```
+   This will open a Jupyter Notebook interface in your default browser.
+
+11. **Open the ML Notebook**:
+   In the browser window, navigate and click on:
+   ```bash
+   crop recommendation system using machine learning.ipynb
+   ```         
+12. **Visualize insights with Matplotlib and Seaborn**
 ---
 ## Dashboard
    ![image](https://github.com/user-attachments/assets/82f989d8-5515-4688-98a7-92de64a4255d)
