@@ -70,42 +70,14 @@ Gained hands-on experience in end-to-end AI/ML workflows, enhancing my technical
    Once the data is loaded, you can explore the interactive visualizations, use filters, and analyze the agricultural trends and statistics provided in the dashboard.
 
 
-6. **For Machine Learning Outputs**:
-Launch Jupyter Notebook:
-If you have Jupyter installed locally, run:
+6. **Launch Terminal or Command Prompt**:
+   Make sure you're in the root folder of the cloned project.
+   ```bash
+   cd indian-agriculture-analysis-dashboard/ML_Model_Notebooks
+   ```
 
-bash
-Copy
-Edit
-jupyter notebook
-Open the notebook:
-From the Jupyter interface, click on:
-
-sql
-Copy
-Edit
-crop recommendation system using machine learning.ipynb
-Install dependencies (if not already installed): Use pip to install required libraries:
-
-bash
-Copy
-Edit
-pip install numpy pandas scikit-learn matplotlib seaborn
-Run the notebook cells:
-Execute each cell one-by-one to:
-
-Load and preprocess the dataset
-
-Train machine learning models
-
-Evaluate accuracy and performance
-
-View predictions and recommendations
-
-Visualize results using graphs and charts
-
-
-
+      
+Visualize insights with Matplotlib and Seaborn
 ---
 ## Dashboard
    ![image](https://github.com/user-attachments/assets/82f989d8-5515-4688-98a7-92de64a4255d)
